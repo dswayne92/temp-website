@@ -1,0 +1,104 @@
+@font-face {
+  font-family: 'GothicA1-Regular';
+  src: url('/Users/dakotawayne/Documents/website/temp-website/fonts/Gothic_A1/GothicA1-Regular.ttf')
+  format('truetype');
+}
+
+@font-face {
+  font-family: 'GothicA1-Light';
+  src: url('/Users/dakotawayne/Documents/website/temp-website/fonts/Gothic_A1/GothicA1-Light.ttf')
+  format('truetype');
+}
+
+@font-face {
+  font-family: 'GothicA1-Thin';
+  src: url('/Users/dakotawayne/Documents/website/temp-website/fonts/Gothic_A1/GothicA1-Thin.ttf')
+  format('truetype');
+}
+
+@font-face {
+  font-family: 'GothicA1-SemiBold';
+  src: url('/Users/dakotawayne/Documents/website/temp-website/fonts/Gothic_A1/GothicA1-SemiBold.ttf')
+  format('truetype');
+}
+
+@font-face {
+  font-family: 'GothicA1-Medium';
+  src: url('/Users/dakotawayne/Documents/website/temp-website/fonts/Gothic_A1/GothicA1-Medium.ttf')
+  format('truetype');
+}
+
+@font-face {
+  font-family: 'ShipporiMincho-Regular';
+  src: url('/Users/dakotawayne/Documents/website/temp-website/fonts/Shippori_Mincho/ShipporiMincho-Regular.ttf')
+  format('truetype');
+}
+
+@font-face {
+  font-family: 'ShipporiMincho-Medium';
+  src: url('/Users/dakotawayne/Documents/website/temp-website/fonts/Shippori_Mincho/ShipporiMincho-Medium.ttf')
+  format('truetype');
+}
+
+@font-face {
+  font-family: 'ShipporiMincho-SemiBold';
+  src: url('/Users/dakotawayne/Documents/website/temp-website/fonts/Shippori_Mincho/ShipporiMincho-SemiBold.ttf')
+  format('truetype');
+}
+
+
+@font-face {
+  font-family:
+  'Antic-Regular';
+  src: url('/Users/dakotawayne/Documents/website/temp-website/fonts/Antic/Antic-Regular.ttf')
+  format('truetype');
+}
+
+@font-face {
+  font-family: 'CormorantGaramond-Regular';
+  src: url('/Users/dakotawayne/Documents/website/temp-website/fonts/Cormorant_Garamond/CormorantGaramond-Regular.ttf')
+  format('truetype');
+}
+
+@font-face {
+  font-family: 'CormorantGaramond-Light';
+  src: url('/Users/dakotawayne/Documents/website/temp-website/fonts/Cormorant_Garamond/CormorantGaramond-Light.ttf')
+  format('truetype');
+}
+
+@font-face {
+  font-family: 'CormorantGaramond-Medium';
+  src: url('/Users/dakotawayne/Documents/website/temp-website/fonts/Cormorant_Garamond/CormorantGaramond-Medium.ttf')
+  format('truetype');
+}
+
+@font-face {
+  font-family: 'Lato-Regular';
+  src: url('/Users/dakotawayne/Documents/website/temp-website/fonts/Lato/Lato-Regular.ttf')
+  format('truetype');
+}
+
+@font-face {
+  font-family: 'Lato-Light';
+  src: url('/Users/dakotawayne/Documents/website/temp-website/fonts/Lato/Lato-Light.ttf')
+  format('truetype');
+}
+
+
+body{
+  background-color:rgb(255, 255, 255);
+ 
+  font-size: 24px;
+  font-weight: 0;
+
+  margin: 0;
+  padding-top:100px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+
+.link:link, .link:visited{
+  text-decoration: none;
+  color:black;
+}
