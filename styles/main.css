@@ -512,3 +512,56 @@
 .text-left:hover{
   background-color:rgb(255, 242, 0);
 }
+
+/*email*/
+
+
+.contact-info{
+
+  position: relative;
+  margin-top: clamp(150px,15%,15%);
+  margin-left: 20%;
+  margin-right:30%;
+  background-color: rgb(255, 255, 255);
+  height: 5000px;
+
+  z-index:2;
+
+  font-family: GothicA1-Light;
+
+}
+
+.social-media{
+  margin-top: 15%;
+}
+
+.media-list{
+  background-color: rgb(255, 255, 255);
+  position:relative;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+
+  
+  row-gap: 50px;
+  column-gap: 50px;
+  font-size: 1.5vw;
+  margin-top: 5%;
+}
+
+.media-left{
+  display: flex;
+  flex-direction: column;
+  column-gap: 30px;
+  row-gap: 30px;
+}
+.qr-frame{
+  background-color: rgb(255, 255, 255);
+}
+
+.qr{
+  width: 300px;
+}
+
+.media-text:hover{
+  background-color:rgb(255, 242, 0);
+}
